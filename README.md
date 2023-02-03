@@ -57,7 +57,7 @@ Copenhagen, Capital Region, Denmark
 
 <hr/>
 
-### Dodreams Ltd. - Senior Backend Developer
+### Dodreams Ltd. - Lead Backend Developer
 
 Helsinki, Finland
 <br>Mar 2020 - Jul 2021
