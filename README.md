@@ -217,6 +217,23 @@ Developed from scratch remote controlled smart house application, based on KNX/E
 
 </details>
 
+<hr/>
+
+<details>
+  <summary><strong>Education</strong></summary>
+  <img src="https://user-images.githubusercontent.com/2689981/221865589-3630fc91-afbd-4e42-8849-5fa2ebad442f.png" width="200" height="200" align="left">
+
+  ### BMSTU - Bauman Moscow State Technical University
+
+  **Moscow, Russia**<br>
+  **Sep 2005 - June 2011**<br>
+
+  **Engineer (CS MSc), Information Systems and Telecommunications**
+  <br/>
+  <br/>
+  <br/>
+</details>
+
 <!--
 **oxeg/oxeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
